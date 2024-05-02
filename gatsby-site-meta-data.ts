@@ -2,7 +2,7 @@ export default {
   title: `개발자 스티치`,
   description: `개발자 스티치`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://github.com/taewooyo`,
+  siteUrl: `https://github.com/swkicat`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
@@ -10,13 +10,13 @@ export default {
     },
   },
   author: {
-    name: `스티치`,
-    nickname: `stitch`,
-    stack: ['Android', 'Kotlin'],
+    name: `swkicat`,
+    nickname: `swkicat`,
+    stack: ['iOS', 'Swift'],
     bio: {
-      email: `skaxodn97@gmail.com`,
+      email: `siyeon0616@gmail.com`,
       residence: 'South Korea',
-      bachelorDegree: 'Computer Software Engineering',
+      bachelorDegree: '',
     },
     social: {
       github: `https://github.com/taewooyo`,
@@ -29,17 +29,11 @@ export default {
   about: {
     careers: [
       {
-        date: '2023.01.02 - NOW',
+        date: '2023.11.21 - NOW',
         en: 'ZumInternet',
         kr: '줌인터넷',
-        info: 'Android development group',
-      },
-      {
-        date: '2022.07.01 - 2022.08.31',
-        en: 'Woowa Brothers Corp.',
-        kr: '우아한형제들',
-        info: 'Woowahan Tech Camp(교육형 인턴)',
-      },
+        info: 'iOS development group',
+      }
     ],
 
     activities: [
