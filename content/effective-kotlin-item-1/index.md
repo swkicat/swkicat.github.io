@@ -3,7 +3,7 @@ emoji: 🔮
 title: item1-가변성을 제한하라
 date: '2023-08-20'
 tags: 블로그 github-pages gatsby
-categories: Effective-kotlin
+categories: Swift
 ---
 
 ```kotlin

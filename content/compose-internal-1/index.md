@@ -3,7 +3,7 @@ emoji: 🔎
 title: Compose Internal (1) - 기본 시스템 원리
 date: '2023-11-07'
 tags: 블로그 github-pages gatsby
-categories: 컴포즈내부시리즈
+categories: iOS
 ---
 
 ## Compose 분류

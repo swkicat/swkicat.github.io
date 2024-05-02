@@ -3,7 +3,7 @@ emoji: ⛓️
 title: 의존성 주입이란
 date: '2024-01-15'
 tags: 블로그 github-pages gatsby
-categories: 의존성주입
+categories: iOS
 ---
 
 ## 의존성 주입이란?

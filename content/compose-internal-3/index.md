@@ -3,7 +3,7 @@ emoji: 🔎
 title: Compose Internal (3) - 위치메모이제이션
 date: '2023-11-08'
 tags: 블로그 github-pages gatsby
-categories: 컴포즈내부시리즈
+categories: iOS
 ---
 
 ## Positional Memoization

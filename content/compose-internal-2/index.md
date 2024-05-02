@@ -3,7 +3,7 @@ emoji: 🔎
 title: Compose Internal (2) - slot table
 date: '2023-11-08'
 tags: 블로그 github-pages gatsby
-categories: 컴포즈내부시리즈
+categories: iOS
 ---
 
 컴포즈에서 이용되는 데이터들을 저장하기 위해서 **slot table**을 활용합니다.
