@@ -1,6 +1,6 @@
 ---
 emoji: 🔎
-title: Compose Internal (1) - 기본 시스템 원리
+title: Compose Internal (111) - 기본 시스템 원리
 date: '2023-11-07'
 tags: 블로그 github-pages gatsby
 categories: iOS
