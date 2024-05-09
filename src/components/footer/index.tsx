@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
     <S.Wrapper>
       <S.Footer>
         © {new Date().getFullYear()}
-        &nbsp;powered by stitch
+        &nbsp;powered by swkicat
       </S.Footer>
     </S.Wrapper>
   );
